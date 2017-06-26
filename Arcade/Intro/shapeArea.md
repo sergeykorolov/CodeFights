@@ -4,24 +4,23 @@ A `1`-interesting polygon is just a square with a side of length `1`. An `n`-int
 
 ![area](../../img/area.png)
 
-### Example
+**Example**
 
   * For `n = 2`, the output should be
     `shapeArea(n) = 5`;
   * For `n = 3`, the output should be
     `shapeArea(n) = 13`.
 
-### Input/Output
+**Input/Output**
   
-* ### [time limit] 3000ms (java)
-
+* **[time limit] 3000ms (java)**
   
-* ### [input] integer n
+* **[input] integer n**
 
     _Guaranteed constraints:_
     `1 ≤ n < 104`.
 
-* ### [output] integer
+* **[output] integer**
 
     The area of the `n`-interesting polygon.
 

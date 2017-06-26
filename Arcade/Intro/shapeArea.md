@@ -18,7 +18,7 @@ A 1-interesting polygon is just a square with a side of length 1. An n-interesti
   
 * ### [input] integer n
 
-    ***Guaranteed constraints:***
+    _Guaranteed constraints:_
     '1 ≤ n < 104'.
 
 * ### [output] integer

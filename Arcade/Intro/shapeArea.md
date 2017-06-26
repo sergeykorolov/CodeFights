@@ -11,9 +11,11 @@ A 1-interesting polygon is just a square with a side of length 1. An n-interesti
 
 ### Input/Output
 
-* ## [time limit] 3000ms (java)
+* ### 
+    [time limit] 3000ms (java)
 
-* ## [input] integer n
+* ### 
+    [input] integer n
 
     Guaranteed constraints:
     1 ≤ n < 104.

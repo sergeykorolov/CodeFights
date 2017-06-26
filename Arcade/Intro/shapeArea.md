@@ -4,16 +4,16 @@ A 1-interesting polygon is just a square with a side of length 1. An n-interesti
 
 ### Example
 
-   * For n = 2, the output should be
+  * For n = 2, the output should be
     shapeArea(n) = 5;
-    For n = 3, the output should be
+  * For n = 3, the output should be
     shapeArea(n) = 13.
 
 ### Input/Output
 
-   ## [time limit] 3000ms (java)
+* ## [time limit] 3000ms (java)
 
-   ## [input] integer n
+* ## [input] integer n
 
     Guaranteed constraints:
     1 ≤ n < 104.

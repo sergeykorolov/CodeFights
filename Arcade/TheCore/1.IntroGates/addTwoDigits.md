@@ -14,7 +14,7 @@ For `n = 29`, the output should be
     A positive two-digit integer.
 
    _Guaranteed constraints:_
-   `10 ? n ? 99`.
+   `10 <= n <= 99`.
 
 * **[output] integer**
 

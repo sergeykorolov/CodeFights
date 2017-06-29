@@ -7,14 +7,14 @@ For `n = 2`, the output should be
 
 **Input/Output**
 
-** *[time limit] 3000ms (java)
+* **[time limit] 3000ms (java)**
 
-** *[input] integer n
+* **[input] integer n**
 
    _Guaranteed constraints:_
     `1 <= n <= 7`.
 
-** *[output] integer
+* **[output] integer**
 
     The largest integer of length `n`.
 

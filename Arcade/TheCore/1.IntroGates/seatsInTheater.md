@@ -11,7 +11,7 @@ For `nCols = 16`, `nRows = 11`, `col = 5` and `row = 3`, the output should be
 
 Here is what the theater looks like:
 
-![area](../../img/seatsInTheater.png)
+![area](../../../img/seatsInTheater.png)
 
 **Input/Output**
 
@@ -43,7 +43,7 @@ Here is what the theater looks like:
     An integer, the row number of your own seat (1-based).
 
    _Guaranteed constraints:_
-   `1 ? row ? nRows`.
+   `1 <= row <= nRows`.
 
 * **[output] integer**
 

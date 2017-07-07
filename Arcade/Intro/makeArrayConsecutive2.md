@@ -9,17 +9,17 @@ Ratiorg needs statues of sizes `4`, `5` and `7`.
 
 **Input/Output**
 
-* **[time limit] 3000ms (java)
+* **[time limit] 3000ms (java)**
 
-* **[input] array.integer statues
+* **[input] array.integer statues**
 
     An array of _distinct_ non-negative integers.
 
     _Guaranteed constraints:_
-    `1 ? statues.length ? 10`,
-    `0 ? statues[i] ? 20`.
+    `1 <= statues.length <= 10`,
+    `0 <= statues[i] <= 20`.
 
-* **[output] integer
+* **[output] integer**
 
     The minimal number of statues that need to be added to existing `statues` such that it contains every integer size from an interval `[L, R]` (for some `L, R`) and no other sizes.
 

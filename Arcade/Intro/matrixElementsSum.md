@@ -21,7 +21,7 @@ the output should be
 Here's the rooms matrix with unsuitable rooms marked with `'x'`:
 
 `[[x, 1, 1, 2]`, 
- `[x, 5, x, x], 
+ `[x, 5, x, x]`, 
  `[x, x, x, x]]`
 
 Thus, the answer is `1 + 5 + 1 + 2 = 9`.

@@ -11,18 +11,18 @@ Help the bots calculate the total price of all the rooms that are suitable for t
 
 For
 
-`matrix = [[0, 1, 1, 2], 
-          [0, 5, 0, 0], 
-          [2, 0, 3, 3]]`
+`matrix = [[0, 1, 1, 2]`, 
+          `[0, 5, 0, 0]`, 
+          `[2, 0, 3, 3]]`
 
 the output should be
 `matrixElementsSum(matrix) = 9`.
 
 Here's the rooms matrix with unsuitable rooms marked with `'x'`:
 
-`[[x, 1, 1, 2], 
- [x, 5, x, x], 
- [x, x, x, x]]`
+`[[x, 1, 1, 2]`, 
+ `[x, 5, x, x], 
+ `[x, x, x, x]]`
 
 Thus, the answer is `1 + 5 + 1 + 2 = 9`.
 
@@ -35,9 +35,9 @@ Thus, the answer is `1 + 5 + 1 + 2 = 9`.
     2-dimensional array of integers representing a rectangular matrix of the building.
 
     _Guaranteed constraints:_
-    `1 ? matrix.length ? 5`,
-    `1 ? matrix[i].length ? 5`,
-    `0 ? matrix[i][j] ? 10`.
+    `1 <= matrix.length <= 5`,
+    `1 <= matrix[i].length <= 5`,
+    `0 <= matrix[i][j] <= 10`.
 
 * **[output] integer**
 

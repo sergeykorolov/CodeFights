@@ -19,7 +19,7 @@ Given a sequence of integers as an array, determine whether it is possible to ob
 * **[input] array.integer sequence**
 
     _Guaranteed constraints:_
-    `2 <= sequence.length <= 10^5,
+    `2 <= sequence.length <= 10^5`,
     `-10^5 <= sequence[i] <= 10^5`.
 
 * **[output] boolean**

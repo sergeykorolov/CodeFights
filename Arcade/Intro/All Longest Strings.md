@@ -17,7 +17,7 @@ For `inputArray = ["aba", "aa", "ad", "vcd", "aba"]`, the output should be
     `1 <= inputArray.length <= 10`,
     `1 <= inputArray[i].length <= 10`.
 
-** *[output] array.string**
+* **[output] array.string**
 
     Array of the longest strings, stored in the same order as in the `inputArray`.
 

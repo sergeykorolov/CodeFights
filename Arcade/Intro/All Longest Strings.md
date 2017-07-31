@@ -7,9 +7,9 @@ For `inputArray = ["aba", "aa", "ad", "vcd", "aba"]`, the output should be
 
 **Input/Output**
 
-** *[time limit] 3000ms (java)**
+* **[time limit] 3000ms (java)**
 
-** *[input] array.string inputArray**
+* **[input] array.string inputArray**
 
     A non-empty array.
 
